@@ -129,22 +129,7 @@ def get_cost(node1, node2):
 initial_node = input("Enter the initial node: ")
 target_node = input("Enter the target node: ")
 
-# # Example usage of Open List Search
-# result_open_list = open_list_search(initial_node, target_node, get_child_nodes)
-# print("Open List Search Result:", result_open_list)
 
-# # Example usage of Uniform-Cost Search
-# result_uniform_cost, path = uniform_cost_search(initial_node, target_node, get_child_nodes, get_cost)
-# print("Uniform-Cost Search Result:", result_uniform_cost)
-# print("Path:", path)
-
-# # Example usage of Random Search
-# result_random = random_search(initial_node, target_node, get_child_nodes)
-# print("Random Search Result:", result_random)
-
-# # Example usage of Closed List Search
-# result_closed_list = closed_list_search(initial_node, target_node, get_child_nodes)
-# print("Closed List Search Result:", result_closed_list)  
     
     
     # Menu-driven interface
